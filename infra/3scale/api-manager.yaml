@@ -1,0 +1,7 @@
+kind: APIManager
+apiVersion: apps.3scale.net/v1alpha1
+metadata:
+  name: apimanager
+  namespace: 3scale
+spec:
+  wildcardDomain: apps.cluster-nhsnm.nhsnm.sandbox285.opentlc.com
