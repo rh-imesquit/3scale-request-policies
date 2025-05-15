@@ -43,9 +43,6 @@ Example:
 | -------------------------------------- | ------- |
 | OpenShift Cluster URL                  | https://console-openshift-console.apps.cluster-nhsnm.nhsnm.sandbox285.opentlc.com  |
 |Value to be used in spec.wildcardDomain | **apps.cluster-nhsnm.nhsnm.sandbox285.opentlc.com**  |
-|                                        |         |
-
-Value to be used in spec.wildcardDomain: apps.cluster-nhsnm.nhsnm.sandbox285.opentlc.com
 
 After making this configuration, click the *Create button*.
 
