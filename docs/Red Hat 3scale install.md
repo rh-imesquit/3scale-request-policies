@@ -32,7 +32,7 @@ Wait until the installation is successfully completed. Once finished, access the
 
 On the next screen, click the *Create APIManager button*. A new screen will open with a form to define the APIManager resource configurations. Switch to the *YAML view*.
 
-You can use the predefined YAML available at: [apimanager.yaml](../infra/3scale/api-manager.yaml)
+You can use the predefined YAML available at: [api-manager.yaml](../infra/3scale/api-manager.yaml)
 
 > **Attention:** You must change the spec.wildcardDomain property to use the domain of your Red Hat OpenShift cluster. Without this correct definition, access to the 3scale admin portal will not work.
 
