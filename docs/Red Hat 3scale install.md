@@ -1,18 +1,18 @@
 # Red Hat 3scale Install Guide
 
-## <h2 style="color: #e5b449;">What is</h2>
+### <h2 style="color: #e5b449;">What is</h2>
 
 **Red Hat 3scale API Management** is a powerful API management platform that helps organizations control, distribute, and monitor their APIs in a secure and scalable way. With 3scale, businesses can easily expose their services to internal teams, partners, or external developers while applying access policies, rate limits, and analytics. It enables you to manage the full API lifecycle — from creation and deployment to monitoring and monetization — making your APIs easier to use and more reliable.
 <br>
 
-## <h2 style="color: #e5b449;">Versions Used in This Tutorial</h2>
+### <h2 style="color: #e5b449;">Versions Used in This Tutorial</h2>
 
 | Component                                   | Version |
 |---------------------------------------------|---------|
 | Red Hat OpenShift Container Platform        | 4.17    |
 | Red Hat 3scale API Management               | 2.15    |
 
-## <h2 style="color: #e5b449;">How-to install</h2>
+### <h2 style="color: #e5b449;">How-to install</h2>
 
 First, let's create a project named 3scale.
 
@@ -38,10 +38,8 @@ You can use the predefined YAML available at: [apimanager.yaml](../infra/3scale/
 
 Example: 
 
-|                                        |         |
-| -------------------------------------- | ------- |
-| OpenShift Cluster URL                  | https://console-openshift-console.apps.cluster-nhsnm.nhsnm.sandbox285.opentlc.com  |
-|Value to be used in spec.wildcardDomain | **apps.cluster-nhsnm.nhsnm.sandbox285.opentlc.com**  |
+* OpenShift Cluster URL: https://console-openshift-console.apps.cluster-nhsnm.nhsnm.sandbox285.opentlc.com
+* Value to be used in *spec.wildcardDomain*: **apps.cluster-nhsnm.nhsnm.sandbox285.opentlc.com**
 
 After making this configuration, click the *Create button*.
 
@@ -70,7 +68,7 @@ An initial product information screen will be displayed. If you don't wish to vi
 
 With that, we conclude our Red Hat 3scale installation tutorial. We hope it was helpful in guiding you through the first steps with the platform. Now that your environment is ready, you can start exploring 3scale’s features to manage your APIs in a secure, efficient, and scalable way. Happy testing, and see you next time!
 
-## <h2 style="color: #e5b449;">References</h2>
+### <h2 style="color: #e5b449;">References</h2>
 
 Here are the references and other important links to complement the content presented:
 
