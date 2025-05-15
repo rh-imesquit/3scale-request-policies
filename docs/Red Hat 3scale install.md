@@ -2,7 +2,6 @@
 
 ## <h2 style="color: #e5b449;">What is</h2>
 
-
 **Red Hat 3scale API Management** is a powerful API management platform that helps organizations control, distribute, and monitor their APIs in a secure and scalable way. With 3scale, businesses can easily expose their services to internal teams, partners, or external developers while applying access policies, rate limits, and analytics. It enables you to manage the full API lifecycle — from creation and deployment to monitoring and monetization — making your APIs easier to use and more reliable.
 <br>
 
