@@ -86,3 +86,11 @@ With the configuration successfully validated, we can now proceed to the next st
 ---
 
 Each time an API consumer subscribes to an API in your Developer Portal, 3scale uses the RH-SSO administrative client that you create in this procedure to create a client for the API consumer application.
+
+
+### <h2 style="color: #e5b449;">References</h2>
+
+Here are the references and other important links to complement the content presented:
+
+* [Red Hat 3scale API Management - Configuring single sign-on to have a 3scale API Management client](https://docs.redhat.com/en/documentation/red_hat_3scale_api_management/2.15/html/administering_the_api_gateway/integrating-threescale-with-an-openid-connect-identity-provider#configuring-rhsso-to-have-a-threescale-client_3scale-rhsso)
+* [Red Hat 3scale API Management - Configuring 3scale API Management to work with single sign-on](https://docs.redhat.com/en/documentation/red_hat_3scale_api_management/2.15/html/administering_the_api_gateway/integrating-threescale-with-an-openid-connect-identity-provider#configuring-threescale-to-work-with-rhsso_3scale-rhsso)
