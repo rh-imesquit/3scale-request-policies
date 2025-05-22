@@ -71,8 +71,18 @@ Keep the remaining settings with their default values, proceed using the Next bu
 
 10. We will perform a POST request to the URL *https://{rhbk host}/realms/{realm name}/protocol/openid-connect/token*. The values listed in the table above must be included in the request body using the form-urlencoded format.
 
-11. With the configuration successfully validated, we can now proceed to the next step: configuring 3scale to use OIDC as the authentication method.
+![Sending request to get JWT token](../images/RHBK/23%20-%20Sending%20request%20to%20get%20token.png)
+
+11.  Let's validate and analyze the token obtained in the request response on website [https://jwt.io](https://jwt.io). 
+
+![Verifying valid token](../images/RHBK/24%20-%20Verifying%20valid%20token.png)
+
+<br>
+
+With the configuration successfully validated, we can now proceed to the next step: configuring 3scale to use OIDC as the authentication method.
 
 
+
+---
 
 Each time an API consumer subscribes to an API in your Developer Portal, 3scale uses the RH-SSO administrative client that you create in this procedure to create a client for the API consumer application.
