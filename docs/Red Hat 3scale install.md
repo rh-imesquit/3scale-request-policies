@@ -72,6 +72,7 @@ With that, we conclude our Red Hat 3scale installation tutorial. We hope it was 
 
 Here are the references and other important links to complement the content presented:
 
+* [Red Hat 3scale API Management - Installing 3scale API Management on OpenShift](https://docs.redhat.com/en/documentation/red_hat_3scale_api_management/2.15/html/installing_red_hat_3scale_api_management/install-threescale-on-openshift-guide)
 * [Red Hat 3scale API Management - Oficial Doc](https://docs.redhat.com/en/documentation/red_hat_3scale_api_management)
 * [Red Hat 3scale API Management - Product Page](https://www.redhat.com/en/technologies/jboss-middleware/3scale)
 * [Red Hat 3scale API Management - Red Hat Developer Portal](https://developers.redhat.com/products/3scale/overview)
