@@ -14,7 +14,11 @@ This lab aims to demonstrate, step by step, the integration between Red Hat 3sca
 
 1. In the RHBK console, we will *create a realm named "3scale"*.
 
-2. After creating the realm, we will *create a new client named "3scale-oidc"*.
+![Creating 3scale realm](../images/RHBK/12%20-%20Creating%203scale%20realm.png)
+
+![Creating 3scale realm](../images/RHBK/13%20-%20Creating%203scale%20realm.png)
+
+1. After creating the realm, we will *create a new client named "3scale-oidc"*.
 
 ![Creating 3scale OIDC Client](../images/RHBK/14%20-%20Creating%20client.png)
 
